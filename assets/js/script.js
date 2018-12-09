@@ -253,8 +253,10 @@ $(document).ready(function () {
     $(window).on('resize load', function () {
         checkSize();
     });
-    
+
     $(".courses__wapper").matchHeight();
+    var locurl = window.location.href;
+    $(".courseput").val(locurl);
 });
 
 

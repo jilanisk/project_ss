@@ -15,7 +15,7 @@
         <div class="body-inner">
             <div class="bundle-content">
                 <div class="container">
-                    <nav class="breadcrumb-wapper">
+                    <nav class="breadcrumb-wapper text-right">
                         <ul class="breadcrumb">
                             <li class="breadcrumb__item"><a class="breadcrumb__link" href="index.html">home</a></li>
                             <li class="breadcrumb__item"><a class="breadcrumb__link" href="#">Courses</a></li>
@@ -176,7 +176,7 @@
                                             </div>
                                         </div>
                                         <div class="list-syllabus__group-button">
-                                            <div class="list-syllabus__view-more" id="cs-button-view">View more</div><a class="button-default button-default--green-l list-syllabus__enroll" href="#">Enroll now</a>
+                                            <div class="list-syllabus__view-more" id="cs-button-view">View more</div>
                                         </div>
                                     </div>
                                 </div> 
@@ -273,7 +273,7 @@
                 </div>
             </div> 
         </div>
-        <?php include '../footer.php'; ?>
+        <?php include 'footer.php'; ?>
         <div class="positionfixed"></div>
     </body>
 </html>

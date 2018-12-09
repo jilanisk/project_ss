@@ -11,14 +11,12 @@
         <?php include 'header.php'; ?>
         <div class="body-inner">
             <div class="container">
-                <div class="contact-page__breadcrumb">
-                    <div class="breadcrumb-wapper">
+                   <nav class="breadcrumb-wapper text-right">
                         <ul class="breadcrumb">
                             <li class="breadcrumb__item"><a class="breadcrumb__link" href="#">Home</a></li>
                             <li class="breadcrumb__item active"><a class="breadcrumb__link active" href="#">Contact us</a></li>
                         </ul>
-                    </div>
-                </div>
+                </nav>
                 <div class="contact-page__wrapper">
                     <div class="cotact-page__box">
                         <div class="row">

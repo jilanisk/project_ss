@@ -11,8 +11,8 @@
         <?php include 'header.php'; ?>
         <div class="body-inner">
             <div class="container">
-                <nav class="breadcrumb-wapper">
-                    <ul class="breadcrumb pull-right">
+                <nav class="breadcrumb-wapper text-right">
+                    <ul class="breadcrumb">
                         <li class="breadcrumb__item"><a class="breadcrumb__link" href="index.php">home</a></li>
                         <li class="breadcrumb__item active"><a class="breadcrumb__link active" href="#">Courses</a></li>
                     </ul>
