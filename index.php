@@ -14,7 +14,7 @@
                 <div class="row design-sprint__content">
                     <div class="col-lg-4 col-md-4 col-sm-4 design-sprint__item">
                         <h1 class="design-sprint__item__title">Sacrostect Services</h1>
-                        <p class="design-sprint__item__content">Transfer your Business Be a Step Head</p><a class="btn button-default design-sprint__item__button" href="#">enroll now</a>
+                        <p class="design-sprint__item__content">Transfer your Business Be a Step Head</p><button class="btn-green list-link__btn" data-toggle="modal" data-target="#modal-enroll">enroll now</button>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 design-sprint__item-image">
                         <div class="design-sprint__wapper"><img class="design-sprint__wapper__image" src="<?php echo $pathPrefix ?>assets/img/home/18.jpg" alt="Product management"></div>

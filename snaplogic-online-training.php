@@ -177,7 +177,7 @@
                                             </div>
                                         </div>
                                         <div class="list-syllabus__group-button">
-                                            <div class="list-syllabus__view-more" id="cs-button-view">View more</div><a class="button-default button-default--green-l list-syllabus__enroll" href="#">Enroll now</a>
+                                            <div class="list-syllabus__view-more" id="cs-button-view">View more</div><button class="btn-green list-link__btn" data-toggle="modal" data-target="#modal-enroll">enroll now</button>
                                         </div>
                                     </div>
                                 </div> 

@@ -10,3 +10,4 @@
 <script src="<?php echo $pathPrefix ?>assets/js/course-bundle.js"></script>
 <script src="<?php echo $pathPrefix ?>assets/js/jquery.validate.min.js"></script>
 <script src="<?php echo $pathPrefix ?>assets/js/bundle-details.js"></script>
+<script src="<?php echo $pathPrefix ?>assets/js/enroll-api.js"></script>

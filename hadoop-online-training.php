@@ -30,7 +30,7 @@
                                     <li class="list-link__item"><a class="list-link__link " href="#syllabus">course</a></li> 
                                     <li class="list-link__item"><a class="list-link__link " href="#faq">FAQ</a></li>
                                 </ul>
-                                <div class="title-list list-link__title">Hadoop Training</div><a class="btn-green list-link__btn" href="#">enroll now</a>
+                                <div class="title-list list-link__title">Hadoop Training</div><button class="btn-green list-link__btn" data-toggle="modal" data-target="#modal-enroll">enroll now</button>
                             </div>
                         </div>
                         <div class="col-lg-9 col-md-9">

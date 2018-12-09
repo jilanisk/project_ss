@@ -253,6 +253,8 @@ $(document).ready(function () {
     $(window).on('resize load', function () {
         checkSize();
     });
+    
+    $(".courses__wapper").matchHeight();
 });
 
 
