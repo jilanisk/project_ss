@@ -5,6 +5,10 @@
         <title>Build and Release Online Training</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>Build & Release Online Training | Build & Release Training Hyderabad</title>
+        <meta name="title" content="Build & Release Online Training | Build & Release Training Hyderabad">
+        <meta name="keywords" content="Build And Release Online Training, Build And Release Training In Hyderabad, Build And Release Corporate Training In Hyderabad, Build And Release Training Institutes In Hyderabad, Build And Release Online Training Institutes, Build And Release Online Training In India, Build And Release Online Training In USA, Build And Release Online Training In Japan, Build And Release Online Training In UK, Build And Release Online Training In Malaysia, Build And Release Online Training In Singapore, Build And Release Online Training In Australia, Build And Release Online Training In Sweden, Build And Release Online Training In South Africa">
+        <meta name="description" content="Build & Release Online Training In Hyderabad- Upskill knowledge with our Build & Release Online Training, Build & Release Corporate Training in Hyderabad by domain experts.">
         <?php include 'imports_top.php'; ?>
     </head>
     <body class="course-single">

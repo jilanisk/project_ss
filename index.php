@@ -77,13 +77,13 @@
                     <h2 class="list-course__header__title"> Our Partners</h2>
                 </div>
                 <div class="row list-icons__list">
-                    <div class="list-icons__item"><a class="list-icons__link" href="#"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/home/01image.png" alt="home/01image.png"></a></div>
-                    <div class="list-icons__item"><a class="list-icons__link" href="#"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/home/02image.png" alt="home/02image.png"></a></div>
-                    <div class="list-icons__item"><a class="list-icons__link" href="#"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/home/03image.png" alt="home/03image.png"></a></div>
-                    <div class="list-icons__item"><a class="list-icons__link" href="#"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/home/01image.png" alt="home/01image.png"></a></div>
-                    <div class="list-icons__item"><a class="list-icons__link" href="#"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/home/02image.png" alt="home/02image.png"></a></div>
-                    <div class="list-icons__item"><a class="list-icons__link" href="#"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/home/03image.png" alt="home/03image.png"></a></div>
-                    <div class="list-icons__item"><a class="list-icons__link" href="#"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/home/01image.png" alt="home/01image.png"></a></div>
+                    <div class="list-icons__item"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/partner/1.jpg" alt="home/01image.png"></div>
+                    <div class="list-icons__item"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/partner/2.jpg" alt="home/02image.png"></div>
+                    <div class="list-icons__item"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/partner/3.jpg" alt="home/03image.png"></div>
+                    <div class="list-icons__item"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/partner/4.jpg" alt="home/01image.png"></div>
+                    <div class="list-icons__item"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/partner/5.jpg" alt="home/02image.png"></div>
+                    <div class="list-icons__item"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/partner/6.jpg" alt="home/03image.png"></div>
+                    <div class="list-icons__item"><img class="list-icons__image" src="<?php echo $pathPrefix ?>assets/img/partner/7.jpg" alt="home/01image.png"></div>
                 </div>
             </div>
         </div>

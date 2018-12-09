@@ -2,9 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Machine Learning Online Training</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>Machine Learning Online Training | Machine Learning Training Hyderabad</title>
+        <meta name="title" content="Machine Learning Online Training | Machine Learning Training Hyderabad">
+        <meta name="keywords" content="Machine Learning Online Training, Machine Learning Training In Hyderabad, Machine Learning Corporate Training In Hyderabad, Machine Learning Training Institutes In Hyderabad, Machine Learning Online Training Institutes, Machine Learning Online Training In India, Machine Learning Online Training In USA, Machine Learning Online Training In Japan, Machine Learning Online Training In UK, Machine Learning Online Training In Malaysia, Machine Learning Online Training In Singapore, Machine Learning Online Training In Australia, Machine Learning Online Training In Sweden, Machine Learning Online Training In South Africa">
+        <meta name="description" content="Machine Learning Online Training In Hyderabad- Build the career foundation in Machine Learning with classroom, Online & Machine Learning Corporate Training in Hyderabad.">
         <?php include 'imports_top.php'; ?>
     </head>
     <body class="course-single">

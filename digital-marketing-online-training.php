@@ -2,9 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Hadoop Testing Online Training</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>Digital Marketing Online Training | Digital Marketing Training Hyderabad</title>
+        <meta name="title" content="Digital Marketing Online Training | Digital Marketing Training Hyderabad">
+        <meta name="keywords" content="Digital Marketing Online Training, Digital Marketing Training In Hyderabad, Digital Marketing Corporate Training In Hyderabad, Digital Marketing Training Institutes In Hyderabad, Digital Marketing Online Training Institutes, Digital Marketing Online Training In India, Digital Marketing Online Training In USA, Digital Marketing Online Training In Japan, Digital Marketing Online Training In UK, Digital Marketing Online Training In Malaysia, Digital Marketing Online Training In Singapore, Digital Marketing Online Training In Australia, Digital Marketing Online Training In Sweden, Digital Marketing Online Training In South Africa">
+        <meta name="description" content="Digital Marketing Online Training In Hyderabad- Become expert in innovative marketing world with our classroom, Online & Digital Marketing Corporate Training in Hyderabad">
         <?php include 'imports_top.php'; ?>
     </head>
     <body class="course-single">

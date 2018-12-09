@@ -5,6 +5,10 @@
         <title>SnapLogic Online Training</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>SnapLogic Online Training | Best SnapLogic Training In Hyderabad</title>
+        <meta name="title" content="SnapLogic Online Training | Best SnapLogic Training In Hyderabad">
+        <meta name="description" content="SnapLogic Online Training In Hyderabad- Grab real time knowledge of SnapLogic with advanced classroom, Online & SnapLogic Corporate Training in Hyderabad by domain experts.">
+        <meta name="keywords" content="SnapLogic Online Training, SnapLogic Training In Hyderabad, SnapLogic Corporate Training In Hyderabad, SnapLogic Training Institutes In Hyderabad, SnapLogic Online Training Institutes, SnapLogic Online Training In India, SnapLogic Online Training In USA, SnapLogic Online Training In Japan, SnapLogic Online Training In UK, SnapLogic Online Training In Malaysia, SnapLogic Online Training In Singapore, SnapLogic Online Training In Australia, SnapLogic Online Training In Sweden, SnapLogic Online Training In South Africa">
         <?php include 'imports_top.php'; ?>
     </head>
     <body class="course-single">

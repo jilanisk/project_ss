@@ -2,9 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Web and Promo Sacrotect Services</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>Data Science Online Training | Data Science Training In Hyderabad</title>
+        <meta name="title" content="Data Science Online Training | Data Science Training In Hyderabad">
+        <meta name="keywords" content="Data Science Online Training, Data Science Training In Hyderabad, Data Science Corporate Training In Hyderabad, Data Science Training Institutes In Hyderabad, Data Science Online Training Institutes, Data Science Online Training In India, Data Science Online Training In USA, Data Science Online Training In Japan, Data Science Online Training In UK, Data Science Online Training In Malaysia, Data Science Online Training In Singapore, Data Science Online Training In Australia, Data Science Online Training In Sweden, Data Science Online Training In South Africa">
+        <meta name="description" content="Data Science Online Training In Hyderabad- Enhance data analytic skills with our classroom & Data Science Online Training & Data Science Corporate Training in Hyderabad.">
         <?php include 'imports_top.php'; ?>
     </head>
 

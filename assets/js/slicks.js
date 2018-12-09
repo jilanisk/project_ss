@@ -106,7 +106,7 @@ $(document).ready(function () {
 
     $('.list-icons__list').slick({
         dots: false,
-        slidesToShow: 6,
+        slidesToShow: 7,
         slidesToScroll: 1,
         autoplay: true,
         arrows: false,

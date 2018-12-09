@@ -2,9 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Hadoop Testing Online Training</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>Hadoop Testing Online Training | Hadoop Testing Training In Hyderabad</title>
+        <meta name="title" content="Hadoop Testing Online Training | Hadoop Testing Training In Hyderabad">
+        <meta name="keywords" content="Hadoop Testing Online Training, Hadoop Testing Training In Hyderabad, Hadoop Testing Corporate Training In Hyderabad, Hadoop Testing Training Institutes In Hyderabad, Hadoop Testing Online Training Institutes, Hadoop Testing Online Training In India, Hadoop Testing Online Training In USA, Hadoop Testing Online Training In Japan, Hadoop Testing Online Training In UK, Hadoop Testing Online Training In Malaysia, Hadoop Testing Online Training In Singapore, Hadoop Testing Online Training In Australia, Hadoop Testing Online Training In Sweden, Hadoop Testing Online Training In South Africa">
+        <meta name="description" content="Hadoop Testing Online Training In Hyderabad- Boost your skills in Hadoop testing with our classroom, Online & Hadoop Testing Corporate Training in Hyderabad by experts in domain.">
         <?php include 'imports_top.php'; ?>
     </head>
     <body class="course-single">

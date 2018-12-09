@@ -2,9 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Mulesoft Online Training</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>MuleSoft Online Training | Best MuleSoft Training In Hyderabad</title>
+        <meta name="title" content="MuleSoft Online Training | Best MuleSoft Training In Hyderabad">
+        <meta name="keywords" content="MuleSoft Online Training, MuleSoft Training In Hyderabad, MuleSoft Corporate Training In Hyderabad, MuleSoft Training Institutes In Hyderabad, MuleSoft Online Training Institutes, MuleSoft Online Training In India, MuleSoft Online Training In USA, MuleSoft Online Training In Japan, MuleSoft Online Training In UK, MuleSoft Online Training In Malaysia, MuleSoft Online Training In Singapore, MuleSoft Online Training In Australia, MuleSoft Online Training In Sweden, MuleSoft Online Training In South Africa">
+        <meta name="description" content="MuleSoft Online Training In Hyderabad- Get the best career knowledge in MuleSoft with our classroom, Online & MuleSoft Corporate Training in Hyderabad. Enroll for free demo.">
         <?php include 'imports_top.php'; ?>
     </head>
     <body class="course-single">

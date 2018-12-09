@@ -2,9 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Oracle OSB Online Training</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>Oracle OSB Online Training | Oracle OSB Training In Hyderabad</title>
+        <meta name="title" content="Oracle OSB Online Training | Oracle OSB Training In Hyderabad">
+        <meta name="keywords" content="Oracle OSB Online Training, Oracle OSB Training In Hyderabad, Oracle OSB Corporate Training In Hyderabad, Oracle OSB Training Institutes In Hyderabad, Oracle OSB Online Training Institutes, Oracle OSB Online Training In India, Oracle OSB Online Training In USA, Oracle OSB Online Training In Japan, Oracle OSB Online Training In UK, Oracle OSB Online Training In Malaysia, Oracle OSB Online Training In Singapore, Oracle OSB Online Training In Australia, Oracle OSB Online Training In Sweden, Oracle OSB Online Training In South Africa">
+        <meta name="description" content="Oracle OSB Online Training In Hyderabad- We are the leading industry experts in delivering the best classroom, Online & Oracle OSB Corporate Training in Hyderabad.">
         <?php include 'imports_top.php'; ?>
     </head>
     <body class="course-single">

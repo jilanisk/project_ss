@@ -2,9 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Cyber Security Online Training</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"> 
+        <title>Cyber Security Online Training | Cyber Security Training In Hyderabad</title>
+        <meta name="title" content="Cyber Security Online Training | Cyber Security Training In Hyderabad">
+        <meta name="keywords" content="Cyber Security Online Training, Cyber Security Training In Hyderabad, Cyber Security Corporate Training In Hyderabad, Cyber Security Training Institutes In Hyderabad, Cyber Security Online Training Institutes, Cyber Security Online Training In India, Cyber Security Online Training In USA, Cyber Security Online Training In Japan, Cyber Security Online Training In UK, Cyber Security Online Training In Malaysia, Cyber Security Online Training In Singapore, Cyber Security Online Training In Australia, Cyber Security Online Training In Sweden, Cyber Security Online Training In South Africa">
+        <meta name="description" content="Cyber Security Online Training In Hyderabad- Gain insights with our advanced classroom & Cyber Security Online Training & Cyber Security Corporate Training in Hyderabad.">
         <?php include 'imports_top.php'; ?>
     </head>
     <body class="course-single">

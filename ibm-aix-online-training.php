@@ -2,9 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>IBM AIX Online Training</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>IBM AIX Online Training | Best IBM AIX Training In Hyderabad</title>
+        <meta name="title" content="IBM AIX Online Training | Best IBM AIX Training In Hyderabad">
+        <meta name="keywords" content="IBM AIX Online Training, IBM AIX Training In Hyderabad, IBM AIX Corporate Training In Hyderabad, IBM AIX Training Institutes In Hyderabad, IBM AIX Online Training Institutes, IBM AIX Online Training In India, IBM AIX Online Training In USA, IBM AIX Online Training In Japan, IBM AIX Online Training In UK, IBM AIX Online Training In Malaysia, IBM AIX Online Training In Singapore, IBM AIX Online Training In Australia, IBM AIX Online Training In Sweden, IBM AIX Online Training In South Africa">
+        <meta name="description" content="IBM AIX Online Training In Hyderabad- Avail real time training in IBM AIX with our esteemed classroom, Online & IBM AIX Corporate Training in Hyderabad by domain experts.">
         <?php include 'imports_top.php'; ?>
     </head>
     <body class="course-single">

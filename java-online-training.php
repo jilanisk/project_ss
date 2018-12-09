@@ -2,9 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Java Online Training</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>Java Online Training | Java Training Hyderabad | Java Corporate Training</title>
+        <meta name="title" content="Java Online Training | Java Training Hyderabad | Java Corporate Training">
+        <meta name="keywords" content="Java Online Training, Java Training In Hyderabad, Java Corporate Training In Hyderabad, Java Training Institutes In Hyderabad, Java Online Training Institutes, Java Online Training In India, Java Online Training In USA, Java Online Training In Japan, Java Online Training In UK, Java Online Training In Malaysia, Java Online Training In Singapore, Java Online Training In Australia, Java Online Training In Sweden, Java Online Training In South Africa">
+        <meta name="description" content="Java Online Training In Hyderabad- Become experts in Java with industry leading advanced classroom, Online & Java Corporate Training in Hyderabad. Enroll for free demo.">
         <?php include 'imports_top.php'; ?>
     </head>
     <body class="course-single">

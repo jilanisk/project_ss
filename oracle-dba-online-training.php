@@ -2,9 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Oracle DBA Online Training</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>Oracle DBA Online Training | Oracle DBA Training In Hyderabad</title>
+        <meta name="title" content="Oracle DBA Online Training | Oracle DBA Training In Hyderabad">
+        <meta name="keywords" content="Oracle DBA Online Training, Oracle DBA Training In Hyderabad, Oracle DBA Corporate Training In Hyderabad, Oracle DBA Training Institutes In Hyderabad, Oracle DBA Online Training Institutes, Oracle DBA Online Training In India, Oracle DBA Online Training In USA, Oracle DBA Online Training In Japan, Oracle DBA Online Training In UK, Oracle DBA Online Training In Malaysia, Oracle DBA Online Training In Singapore, Oracle DBA Online Training In Australia, Oracle DBA Online Training In Sweden, Oracle DBA Online Training In South Africa">
+        <meta name="description" content="Oracle DBA Online Training In Hyderabad- Gain expertise in Oracle DBA with our advanced classroom, Online & Oracle DBA Corporate Training in Hyderabad by industry experts.">
         <?php include 'imports_top.php'; ?>
     </head>
     <body class="course-single">
